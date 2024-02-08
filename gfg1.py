@@ -1,13 +1,12 @@
 #Print numbers from 1 to N without the help of loops.
 
-class Solution:
-
-    def printNos(self,N):
-
+class Tanu:
+    def numlen(self,N):
         if N>0:
-            N = N-1
+            self.numlen(N-1)
+            print(N,end=' ')
 
-        return print(N)
+object1 = Tanu()
+object1.numlen(N = int(input("enter a number:")))
 
-obj1 = Solution()
 
