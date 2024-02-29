@@ -2,7 +2,7 @@ print("Welcome to Tanu's Bowl restorent, here is your Menu\n")
 print('''Food       price
       
 1)Poori      30rs
-2)Dese       50rs
+2)Dose       50rs
 3)Benne Dose 70rs
 4)Open Dose  80rs
 5)Iddli      20rs
