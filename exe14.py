@@ -1,4 +1,4 @@
-Exercise 14: Print a downward Half-Pyramid Pattern of Star (asterisk)
+#Exercise 14: Print a downward Half-Pyramid Pattern of Star (asterisk)
 
 class Tanu:
     def pingu(self):
