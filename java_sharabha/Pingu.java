@@ -1,13 +1,14 @@
 import java.util.*;
-public class Pingu {
+public class Pingu {   
 
-    public static void demo(String fname){
-        System.out.println(fname + "hajama");
-    }
-    
-}
 
 public static void main(String[]args){
-    demo("Gurlinga");
-    demo("samy");
+    int number = 3;
+    for (int i=1; i<=10;i++){
+        int result = number * i;
+        System.out.println(result);
+
+        
+    }
+}
 }
